@@ -1,0 +1,20 @@
+{
+  "name": "seo-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:18560/git/UNICUS-carp/SEO-Analysis"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromium": "^3.0.3",
+    "playwright-core": "^1.56.1"
+  }
+}

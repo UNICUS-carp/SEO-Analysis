@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.DS_Store
+screenshot.png
+website-full.html
+links.json
+buttons.json
+forms.json
+structure.json
+analytics.json
+website.html
