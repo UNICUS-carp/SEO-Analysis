@@ -1,9 +1,44 @@
 # GA4イベントトラッキング実装プロジェクト
-## 株式会社サンヒルズ Webサイト
+
+このリポジトリには、複数のWebサイト向けGA4イベントトラッキング設定ガイドが含まれています。
 
 ---
 
-## 📋 プロジェクト概要
+## 📂 プロジェクト一覧
+
+### 🏥 治療院・整骨院向けGA4設定（最新）
+
+**対象サイト**:
+- mori18.com (森18整骨院)
+- fujii-hone.com (藤井ほね整骨院)
+- sakatsume-bsac.com (さかつめ整骨院)
+
+**ドキュメント**:
+- **[CLINIC-PROJECT-SUMMARY.md](./CLINIC-PROJECT-SUMMARY.md)** - プロジェクト完全レポート（必読）
+- **[CLINIC-SITES-QUICK-START.md](./CLINIC-SITES-QUICK-START.md)** - クイックスタートガイド（1週間で実装）
+- **[CLINIC-GA4-TRACKING-GUIDE.md](./CLINIC-GA4-TRACKING-GUIDE.md)** - 完全実装ガイド（50KB超）
+- **[MCP-SCRAPER-IMPLEMENTATION.md](./MCP-SCRAPER-IMPLEMENTATION.md)** - MCP実装ドキュメント
+- **[CRAWLING-ATTEMPTS-REPORT.md](./CRAWLING-ATTEMPTS-REPORT.md)** - クローリング試行レポート
+
+**特徴**:
+- ✅ 15イベント設定（Phase 1-3）
+- ✅ GTM実装手順（コピペ可能）
+- ✅ 治療院業界特化
+- ✅ すぐに実装開始可能
+
+**今すぐ始める**: [CLINIC-SITES-QUICK-START.md](./CLINIC-SITES-QUICK-START.md) を開く
+
+---
+
+### 🏢 株式会社サンヒルズ Webサイト
+
+**対象サイト**: https://sun-hills.info/
+
+**ドキュメント**: 下記セクション参照
+
+---
+
+## 📋 サンヒルズプロジェクト概要
 
 このプロジェクトは、株式会社サンヒルズのWebサイト（https://sun-hills.info/）における**売上貢献度を正確に測定**するためのGA4イベントトラッキング設定を提供します。
 
