@@ -1,0 +1,20 @@
+[
+  {
+    "success": false,
+    "site": "mori18",
+    "url": "https://mori18.com/",
+    "error": "page.goto: Page crashed\nCall log:\n  - navigating to \"https://mori18.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "success": false,
+    "site": "fujii-hone",
+    "url": "https://fujii-hone.com/",
+    "error": "page.goto: Page crashed\nCall log:\n  - navigating to \"https://fujii-hone.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "success": false,
+    "site": "sakatsume-bsac",
+    "url": "https://sakatsume-bsac.com/",
+    "error": "page.goto: Page crashed\nCall log:\n  - navigating to \"https://sakatsume-bsac.com/\", waiting until \"networkidle\"\n"
+  }
+]
